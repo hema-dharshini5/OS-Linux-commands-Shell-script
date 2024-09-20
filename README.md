@@ -246,6 +246,7 @@ cat > file23
 
 
 sed -n -e '3p' file23
+
 ## OUTPUT
 ![image](https://github.com/user-attachments/assets/a5be0116-8e10-4a74-90c8-054b11b5d4f8)
 
@@ -254,7 +255,8 @@ sed -n -e '$p' file23
 ## OUTPUT
 
 
-![image](https://github.com/user-attachments/assets/a8ef4875-50bb-4799-be0d-5a35ea5bdcef)
+![image](https://github.com/user-attachments/assets/a8ef4875-50bb-4799-be0d-5a35ea5bdcef) 
+
 sed  -e 's/Ram/Sita/' file23
 ## OUTPUT
 
