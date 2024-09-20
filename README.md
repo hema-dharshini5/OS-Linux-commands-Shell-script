@@ -875,8 +875,8 @@ Bhadrachalam
 Khammam
 
 ## OUTPUT
-
 ![image](https://github.com/user-attachments/assets/f90f5b8e-ce2e-4537-9ec7-22eb4e785764)
+
 cat forctype.sh 
 ```bash
 #!/bin/bash
@@ -889,6 +889,7 @@ done
 $ chmod 755 forctype.sh
 $ ./forctype.sh 
 ## OUTPUT
+
 ![image](https://github.com/user-attachments/assets/e7aabd6c-0f20-42ca-be44-b46ee6e89a0d)
 
 cat forctype1.sh 
@@ -903,8 +904,8 @@ done
 $ chmod 755 forctype.sh
 $ ./forctype1.sh 
 ## OUTPUT
-
 ![image](https://github.com/user-attachments/assets/1c067b24-52be-4da4-9290-e900094936ba)
+
 cat fornested1.sh 
 ```bash
 #!/bin/bash
@@ -967,7 +968,9 @@ $ chmod 755 forcontinue.sh
  
 $ ./forcontinue.sh 
 ## OUTPUT
- 
+
+![image](https://github.com/user-attachments/assets/5ed5a6b3-8d04-42e0-8491-28a4372ec8f9)
+
 cat exread.sh 
 ```bash
 #!/bin/bash
@@ -1015,9 +1018,10 @@ echo "Usage: badtest1 a b"
 fi
 ```
 ## OUTPUT
- ./funcex.sh 
+ 
 
-![image](https://github.com/user-attachments/assets/74b20eab-144c-4e22-8b0c-e6e46216def8)
+![image](https://github.com/user-attachments/assets/74b20eab-144c-4e22-8b0c-e6e46216def8) 
+ ./funcex.sh 
  
  ./funcex.sh 1 2
 
@@ -1067,10 +1071,9 @@ done
 set +x
 ```
 ## OUTPUT
+./argshift.sh 1 2 3
+
  ![image](https://github.com/user-attachments/assets/a1620bc2-efef-45c9-9cd4-ca1c97156d37)
-
-
- ./argshift.sh 1 2 3
  
  
 cat > nc.awk
