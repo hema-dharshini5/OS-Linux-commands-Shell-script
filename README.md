@@ -94,6 +94,7 @@ cut -d "|" -f 1 file22
 ![image](https://github.com/user-attachments/assets/6b687bf8-552f-4c37-bc55-17125ca4b9b2)
 
 cut -d "|" -f 2 file22
+
 ## OUTPUT
 
 ![image](https://github.com/user-attachments/assets/2cabdf1e-9cdc-4a65-b1aa-88829f3319c8) 
@@ -144,7 +145,8 @@ grep -R ubuntu /etc
 grep -w -n world newfile   
 ## OUTPUT
 
-![image](https://github.com/user-attachments/assets/4086bd0c-8e2a-4b6c-b4a2-d34bb5532e11)
+![image](https://github.com/user-attachments/assets/4086bd0c-8e2a-4b6c-b4a2-d34bb5532e11) 
+
 cat < newfile 
 ```
 Hello world
