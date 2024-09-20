@@ -945,6 +945,7 @@ echo "The for loop is completed“
 ![image](https://github.com/user-attachments/assets/de88b515-cd60-4339-bb58-3472d192bf5a)
 
 $ chmod 755 forbreak.sh
+![image](https://github.com/user-attachments/assets/6be5233c-8643-4068-b288-fc0ab3bd3438)
  
 $ ./forbreak.sh 
 
@@ -971,7 +972,7 @@ $ chmod 755 forcontinue.sh
 $ ./forcontinue.sh 
 ## OUTPUT
 
-![image](https://github.com/user-attachments/assets/5ed5a6b3-8d04-42e0-8491-28a4372ec8f9)
+![image](https://github.com/user-attachments/assets/c35bdac2-72cf-4dfe-b794-a20a3cb26917)
 
 cat exread.sh 
 ```bash
@@ -1022,7 +1023,7 @@ fi
 ## OUTPUT
  
 
-![image](https://github.com/user-attachments/assets/74b20eab-144c-4e22-8b0c-e6e46216def8) 
+![image](https://github.com/user-attachments/assets/74b20eab-144c-4e22-8b0c-e6e46216def8)
  ./funcex.sh 
  
  ./funcex.sh 1 2
@@ -1059,7 +1060,6 @@ done
 $ chmod 777 argshift.sh
 ## OUTPUT
 ![image](https://github.com/user-attachments/assets/08549cad-4ed8-47ad-86eb-47adbc6ca62e)
-
 $ ./argshift.sh 1 2 3
  
 cat argshift.sh
@@ -1074,10 +1074,9 @@ set +x
 ```
 ## OUTPUT
 ./argshift.sh 1 2 3
-
  ![image](https://github.com/user-attachments/assets/a1620bc2-efef-45c9-9cd4-ca1c97156d37)
- 
- 
+
+
 cat > nc.awk
 ```bash
 BEGIN{}
@@ -1108,7 +1107,7 @@ ubcdfghj
 awk -f nc.awk data.dat
 ## OUTPUT 
 
- ![image](https://github.com/user-attachments/assets/fda42f04-3629-443d-965e-d79c765b52f8)
+![image](https://github.com/user-attachments/assets/fda42f04-3629-443d-965e-d79c765b52f8)
 cat > palindrome.sh
 ```bash
 #num=545
