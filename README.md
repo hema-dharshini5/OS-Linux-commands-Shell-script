@@ -257,7 +257,7 @@ sed  -e '2s/Ram/Sita/' file23
 sed  '/tom/s/5000/6000/' file23
 ## OUTPUT
 
-![image](https://github.com/user-attachments/assets/678bef40-e25c-45d1-bc55-4a6a57c5cb5a
+![image](https://github.com/user-attachments/assets/678bef40-e25c-45d1-bc55-4a6a57c5cb5a)
 
 sed -n -e '1,5p' file23
 ## OUTPUT
