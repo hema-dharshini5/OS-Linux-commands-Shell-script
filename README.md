@@ -175,32 +175,36 @@ egrep -w '(H|h)ello' newfile
 ![image](https://github.com/user-attachments/assets/de89faea-7147-4709-8908-bfdd24bd8099)
 
 egrep -w '(H|h)ell[a-z]' newfile 
+
 ## OUTPUT
 
 ![image](https://github.com/user-attachments/assets/16def152-e9fd-4814-8ce3-f4d0c594e63e)
 
 
 egrep '(^hello)' newfile 
+
 ## OUTPUT
 ![image](https://github.com/user-attachments/assets/602e57c8-66cf-4c24-a7c1-aedeba905d4c)
 
 
-
-
 egrep '(world$)' newfile 
+
 ## OUTPUT
 
 ![image](https://github.com/user-attachments/assets/ba393abc-70c3-4fe9-b4cb-617967f9fed9)
 
 egrep '(World$)' newfile 
+
 ## OUTPUT
 
-![image](https://github.com/user-attachments/assets/d4c5f115-e0f7-4105-a6bb-d1718d9ab6c6)
+![image](https://github.com/user-attachments/assets/d4c5f115-e0f7-4105-a6bb-d1718d9ab6c6) 
+
 egrep '((W|w)orld$)' newfile 
 ## OUTPUT
 
 
-![image](https://github.com/user-attachments/assets/13d6e98d-c3c3-491b-a973-f5ce10a9ff4f)
+![image](https://github.com/user-attachments/assets/13d6e98d-c3c3-491b-a973-f5ce10a9ff4f) 
+
 egrep '[1-9]' newfile 
 ## OUTPUT
 
