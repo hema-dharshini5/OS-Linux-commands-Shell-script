@@ -1067,7 +1067,7 @@ done
 set +x
 ```
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/a1620bc2-efef-45c9-9cd4-ca1c97156d37)
+ ![image](https://github.com/user-attachments/assets/a1620bc2-efef-45c9-9cd4-ca1c97156d37)
 
 
  ./argshift.sh 1 2 3
@@ -1102,7 +1102,8 @@ ubcdfghj
 ```
 awk -f nc.awk data.dat
 ## OUTPUT 
- 
+
+ ![image](https://github.com/user-attachments/assets/fda42f04-3629-443d-965e-d79c765b52f8)
 cat > palindrome.sh
 ```bash
 #num=545
@@ -1130,6 +1131,7 @@ fi
 ```
 ## OUTPUT 
 
+![image](https://github.com/user-attachments/assets/e7024bb7-0559-4aef-9b88-bcd32cf5674e)
 
 # RESULT:
 The Commands are executed successfully.
