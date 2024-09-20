@@ -52,11 +52,13 @@ cat < file2
 # Comparing Files
 cmp file1 file2
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/faa5e325-ce88-4695-a929-55b4aa16c56c)
+![image](https://github.com/user-attachments/assets/faa5e325-ce88-4695-a929-55b4aa16c56c) 
+
 comm file1 file2
  ## OUTPUT
 
-![image](https://github.com/user-attachments/assets/ae8f2666-f6e0-442b-8d30-16a90fd00c28)
+![image](https://github.com/user-attachments/assets/ae8f2666-f6e0-442b-8d30-16a90fd00c28) 
+
 diff file1 file2
 ## OUTPUT
 ![image](https://github.com/user-attachments/assets/c17aba4b-b3ab-4ba7-b57b-191aa4e277c4)
@@ -94,7 +96,8 @@ cut -d "|" -f 1 file22
 cut -d "|" -f 2 file22
 ## OUTPUT
 
-![image](https://github.com/user-attachments/assets/2cabdf1e-9cdc-4a65-b1aa-88829f3319c8)
+![image](https://github.com/user-attachments/assets/2cabdf1e-9cdc-4a65-b1aa-88829f3319c8) 
+
 cat < newfile 
 ```
 Hello world
@@ -1054,6 +1057,7 @@ done
 $ chmod 777 argshift.sh
 
 ## OUTPUT
+
 ![image](https://github.com/user-attachments/assets/5a3fc33b-c6fb-412e-ba7a-85df9f12de4c)
 
 $ ./argshift.sh 1 2 3
@@ -1073,6 +1077,7 @@ done
 ```
 $ chmod 777 argshift.sh
 ## OUTPUT
+
 ![image](https://github.com/user-attachments/assets/08549cad-4ed8-47ad-86eb-47adbc6ca62e) 
 
 $ ./argshift.sh 1 2 3
