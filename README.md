@@ -215,11 +215,13 @@ egrep '[1-9]' newfile
 egrep 'Linux.*world' newfile 
 ## OUTPUT
 
-![image](https://github.com/user-attachments/assets/89b330e1-b11b-4410-91c0-d26e22469f06)
+![image](https://github.com/user-attachments/assets/89b330e1-b11b-4410-91c0-d26e22469f06) 
+
 egrep 'Linux.*World' newfile 
 ## OUTPUT
 
-![image](https://github.com/user-attachments/assets/fb571249-cd6f-4ea2-9f2c-e34355494dc3)
+![image](https://github.com/user-attachments/assets/fb571249-cd6f-4ea2-9f2c-e34355494dc3) 
+
 egrep l{2} newfile
 ## OUTPUT
 
