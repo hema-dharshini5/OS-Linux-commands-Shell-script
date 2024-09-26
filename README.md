@@ -1013,8 +1013,7 @@ $ chmod 755 exread.sh
  
 $ ./exread.sh 
 ## OUTPUT
-
-![image](https://github.com/user-attachments/assets/c35bdac2-72cf-4dfe-b794-a20a3cb26917) 
+![image](https://github.com/user-attachments/assets/5ed5a6b3-8d04-42e0-8491-28a4372ec8f9)
 
  cat exread1.sh
 ```bash
